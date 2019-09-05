@@ -1,1 +1,5 @@
 # bilibili
+
+可以在config中设置指定的keyword然后在启动py_bilibili文件就可以将bilibili中指定的内容全部抓取下来
+
+
